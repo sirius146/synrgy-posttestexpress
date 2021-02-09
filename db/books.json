@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "isbn": "10001",
+        "judul": "judul1",
+        "sinopsis": "ini adalah sinopsis judul1",
+        "penulis": "Ani",
+        "genre": "Romance"
+    },
+    {
+        "id": 2,
+        "isbn": "10002",
+        "judul": "judul2",
+        "sinopsis": "ini adalah sinopsis judul2",
+        "penulis": "Boni",
+        "genre": "Action"
+    },
+    {
+        "id": 3,
+        "isbn": "10003",
+        "judul": "judul3",
+        "sinopsis": "ini adalah sinopsis judul3",
+        "penulis": "Ani",
+        "genre": "Action"
+    }
+
+]
